@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Avi Thakur, CSE undergrad Avi Thakur</h1>
-<h3 align="center">I'm passionate about DL, ML, NLP and frontend development using Flutter!</h3>
+<h3 align="center">I'm passionate about DL, ML, NLP and frontend development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi-thakur-0812" alt="avi-thakur-0812" /></a> </p>
+
+- 🔭 I’m currently [contributing to Open Source Projects](https://github.com/unifyai/ivy)
+
+- 🌱 I’m currently learning **MLOps**
+
+- 👯 I’m looking to collaborate on **Research involving Deep learning**
+
+- 🤝 I’m looking for help with [Inpainting NIFtI files](https://www.synapse.org/#)
+
+- 📝 I regularly write articles on [https://medium.com/@thakuravi2093](https://medium.com/@thakuravi2093)
+
+- 💬 Ask me about **Neural Networks and Transformers**
+
+- 📫 How to reach me **thakuravi2093@gmail.com**
+
+- ⚡ Fun fact **I can learn new skills, frameworks and technologies at a beginner l**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
