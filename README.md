@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I am Avi Thakur, a CSE undergrad</h1>
 <h3 align="center">I'm passionate about DL, ML, NLP and frontend development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi-thakur-0812" alt="avi-thakur-0812" /></a> </p>
@@ -16,7 +17,7 @@
 
 - 📫 How to reach me **thakuravi2093@gmail.com**
 
-- ⚡ Fun fact **I can learn new skills, frameworks and technologies at a beginner l**
+- ⚡ Fun fact **I can learn new skills, frameworks and technologies at a beginner level in a day or two!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
